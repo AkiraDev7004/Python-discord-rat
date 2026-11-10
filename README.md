@@ -1,6 +1,8 @@
 # Python Discord RAT
 - Made by AkiraDev7004
 
+- If you find any issues or bugs open an issue on github
+
 ---
 
 ### Features
