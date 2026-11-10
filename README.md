@@ -68,17 +68,6 @@ pip install discord.py mss cv2 sounddevice
    !ransomware on
    ```
 
----
-
-### Security Notes / OPSEC
-
-- **This is an educational example.** Do not hardcode secrets, keys, or IPs. Use environment variables or config files instead.
-- Build with Nuitka for better protection (see the Python to Executable Guide).
-- Test thoroughly in a sandbox before deploying on real systems.
-- Remember that `!joinvc` creates voice channels per victim category; ensure your Discord server has enough space.
-
----
-
 
 # How to convert the file into an .exe?
 
