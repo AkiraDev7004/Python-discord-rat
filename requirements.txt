@@ -1,0 +1,4 @@
+discord
+mss
+cv2
+sounddevice
